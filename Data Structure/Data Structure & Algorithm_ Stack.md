@@ -406,7 +406,7 @@ Note: You are not allowed to use any built-in function which evaluates strings a
 
 ```python
 ### Đối với bài này thì hướng tiếp cận cũng giống như bài trên, chỉ có khác là chúng ta sẽ mở rộng sign ra là
-### '+' '-' '*' '/' chứ không chỉ có '+' và chia '/'. Ban đầu ta cho sign = '+' và tiến hành duyệt, nếu gặp số
+### '+' '-' '*' '/' chứ không chỉ có '+' và trừ '-'. Ban đầu ta cho sign = '+' và tiến hành duyệt, nếu gặp số
 ### thì gán nó vào biến num, còn gặp phép tình thì ta sẽ đưa nó vào stack tương ứng với sign (sign sẽ đại diện
 ### cho dấu của con số phía trước). Còn đối với trường hợp '*' và '/' sẽ hơi đặc biệt chút xíu, ta không thể
 ### stack.push(num) như vậy được tại vì nó là phép nhân hoặc chia nên nó cần 2 con số để thực hiện cho nên
