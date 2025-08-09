@@ -9,7 +9,7 @@ Khác với Set khi giá trị được đem đi `hash` chính là bản thân g
 
 Ngoài ra `Dictionary` không hoàn toan lấy cảm hứng từ `toán học` mà có thể nói `Dictionary` như một cuốn danh bạ nơi `key` chính là tên và `value` chính là số diện thoại.
 
-[![image.png](images/image_1.png)](https://www.youtube.com/watch?v=Hea64Ey_gVU)
+[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=Hea64Ey_gVU)
 
 # **Thao Tác**
 Tương tự như với `Set`, `Dictionary` cũng có các phép toán như: `Hợp` (Union), `Giao` (Intersetion), `Hiệu` (Difference) và một số phương thức cơ bản khác như: add, remove. Chính vì thế nên trong phần thao tác này tôi sẽ giới thiệu một số phương thức phổ biến trong `Dictionary` (được cài đặt trong python)
@@ -115,7 +115,7 @@ Cũng như bài về `Set` tôi cũng khuyến khích các bạn nên xem các v
 
 ---
 
-## **[LEETCODE 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)** **`MEDIUM`**
+## **[Video tham khảo](https://leetcode.com/problems/top-k-frequent-elements/description/)** **`MEDIUM`**
 
 Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 
@@ -153,7 +153,7 @@ def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
 ```
 
-## **[LEETCODE 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)** **`MEDIUM`**
+## **[Video tham khảo](https://leetcode.com/problems/group-anagrams/description/)** **`MEDIUM`**
 
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 

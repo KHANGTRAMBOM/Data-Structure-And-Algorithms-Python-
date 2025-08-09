@@ -38,7 +38,7 @@ Trong danh bạ, khi cần tra số điện thoại của `"Khang"`:
 - Các phần tử bắt buộc phải là **hashable** (băm được): `int`, `str`, `float`, `tuple` (nếu tuple chỉ chứa giá trị bất biến)
 
 
-[![image.png](images/image_1.png)](https://www.youtube.com/watch?v=T2kk6n7EE3E)
+[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=T2kk6n7EE3E)
 
 ---
 

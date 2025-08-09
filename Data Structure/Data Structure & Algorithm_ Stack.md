@@ -30,7 +30,7 @@ Stack có rất nhiều ứng dụng quan trọng và quen thuộc trong khoa h�
 > Tên gọi "Stack Overflow" không chỉ là một lỗi lập trình mà còn là tên của một trang web hỏi đáp cực kỳ nổi tiếng dành cho lập trình viên. Khi bạn gặp lỗi này, rất có thể bạn sẽ tìm thấy câu trả lời trên chính trang web cùng tên.
 
 
-[![image.png](images/image_1.png)](https://www.youtube.com/watch?v=KcT3aVgrrpU)
+[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=KcT3aVgrrpU)
 
 ---
 
@@ -112,7 +112,7 @@ print(f"Giá trị hiện tại top hiện tại của Stack là: {myStack.peek(
 # **MỘT SỐ BÀI TẬP RÈN LUYỆN**
 Cúng giống với các bài `notebook` trước về `DSA` thì trong kì này cũng sẽ có một số bài tập mà có thể nói là `đỉnh cao` các bài này cũng được lấy từ nguồn`Leetcode`. Ngoài ra do thuật toán này cũng được sử dụng trong `Theory Graph` (Lý thuyết đồ thị) mà sẽ có ở những series về chúng sau nên tôi cũng không đưa nó vào bài `notebook` này mong các bạn thông cảm 😜😜😜😜 .
 
-## [LEETCODE 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) **`EASY`**
+## [Video tham khảo](https://leetcode.com/problems/valid-parentheses/description/) **`EASY`**
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
@@ -157,7 +157,7 @@ class Solution:
 
 ```
 
-## [LEETCODE 844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) **`EASY`**
+## [Video tham khảo](https://leetcode.com/problems/backspace-string-compare/description/) **`EASY`**
 Given two strings s and t, return true if they are equal when both are typed into empty text editors. '#' means a backspace character.
 
 Note that after backspacing an empty text, the text will continue empty.
@@ -188,7 +188,7 @@ class Solution:
 
 ```
 
-## [LEETCODE 682. Baseball Game](https://leetcode.com/problems/baseball-game/description/) **`EASY`**
+## [Video tham khảo](https://leetcode.com/problems/baseball-game/description/) **`EASY`**
 You are keeping the scores for a baseball game with strange rules. At the beginning of the game, you start with an empty record.
 
 You are given a list of strings operations, where operations[i] is the ith operation you must apply to the record and is one of the following:
@@ -240,7 +240,7 @@ class Solution:
         return sum(stack)
 ```
 
-## [LEETCODE 71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) **`MEDIUM`**
+## [Video tham khảo](https://leetcode.com/problems/simplify-path/description/) **`MEDIUM`**
 
 You are given an absolute path for a Unix-style file system, which always begins with a slash '/'. Your task is to transform this absolute path into its simplified canonical path.
 
@@ -289,7 +289,7 @@ class Solution:
         return result + result.join(stack)
 ```
 
-## [LEETCODE 224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) **`HARD`**
+## [Video tham khảo](https://leetcode.com/problems/basic-calculator/description/) **`HARD`**
 
 Given a string s representing a valid expression, implement a basic calculator to evaluate it, and return the result of the evaluation.
 
@@ -393,7 +393,7 @@ class Solution:
         return total + cur_num * sign
 ```
 
-## [LEETCODE 227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) **`MEDIUM`**
+## [Video tham khảo](https://leetcode.com/problems/basic-calculator-ii/description/) **`MEDIUM`**
 
 Given a string s which represents an expression, evaluate this expression and return its value.
 

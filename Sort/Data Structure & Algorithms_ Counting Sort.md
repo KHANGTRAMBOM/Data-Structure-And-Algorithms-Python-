@@ -3,7 +3,7 @@ Trong các `Notebook` trước, chúng ta đã cùng tìm hiểu nhiều thuật
 
 Trong `Notebook` này và các `Notebook` tiếp theo trong chương `Sort`, tôi sẽ giới thiệu đến các bạn những thuật toán sắp xếp **không dựa vào so sánh** — hay còn gọi là `non-comparison-based`, và `Counting Sort` là một trong những thuật toán cơ bản nhất thể hiện rõ tinh thần `non-comparison` này.
 
-[![image.png](images/image_1.png)](https://www.youtube.com/watch?v=7zuGmKfUt7s)
+[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=7zuGmKfUt7s)
 
 # **Ý TƯỞNG**
 

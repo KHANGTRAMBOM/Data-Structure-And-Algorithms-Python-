@@ -3,7 +3,7 @@ Mảng (`Array`) là một cấu trúc dữ liệu `đơn giản và cơ bản`.
 
 Nó được thiết kế để `lưu trữ nhiều giá trị cùng lúc` mà không cần khai báo từng biến riêng lẻ. Với mảng, bạn có thể `truy cập nhanh` các phần tử thông qua `chỉ số`, giúp tiết kiệm thời gian và tối ưu hóa việc quản lý dữ liệu.
 
-[![image.png](images/image_1.png)](https://www.youtube.com/watch?v=9dr2mHYYoug)
+[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=9dr2mHYYoug)
 
 # **Ý TƯỞNG**
 Mảng (`Array`) được xây dựng dựa trên cách `phân bố bộ nhớ` trên `RAM`. Mỗi biến được `RAM` cấp` một địa chỉ bộ nhớ` cụ thể. Khi tạo mảng (ví dụ: mảng 10 phần tử), `RAM` cấp phát `10 vùng nhớ liền kề nhau`. Nhờ đó, ta có thể `truy cập` nhanh các phần tử qua `chỉ mục`, cả tuần tự lẫn trực tiếp.
@@ -344,7 +344,7 @@ print(f"**Chuyển từ cơ số {BaseN} sang cơ số {BaseM} với {Hex} là :
 1. **Sử dụng mảng phụ**: Tạo một` mảng mới`, duyệt mảng gốc `từ cuối về đầu` và gán các phần tử vào mảng mới theo thứ tự tuần tự.
 2. **Sử dụng hai con trỏ**: Dùng một `con trỏ` `từ đầu mảng` và một `con trỏ` `từ cuối mảng`. `Hoán đổi giá trị` tại hai con trỏ, sau đó `tăng `con trỏ đầu và `giảm` con trỏ cuối, lặp lại đến khi hai con trỏ gặp nhau.
 
-**Link bài:** [**ĐẢO NGƯỢC CHUỖI**](https://leetcode.com/problems/reverse-string/)
+**Link bài:** [Video tham khảo](https://leetcode.com/problems/reverse-string/)
 
 
 ```python
@@ -366,10 +366,10 @@ class Solution:
 ```
 
 ## **KIỄM TRA CHUỖI ĐỐI XỨNG**
-**Ý TƯỞNG**: Tương tự với cách làm của [**ĐẢO NGƯỢC CHUỖI**](https://leetcode.com/problems/reverse-string/) ta chỉ cần thay vì hoán đổi giá trị ta sẽ kiễm tra giá trị nó có bằng nhau không
+**Ý TƯỞNG**: Tương tự với cách làm của [Video tham khảo](https://leetcode.com/problems/reverse-string/) ta chỉ cần thay vì hoán đổi giá trị ta sẽ kiễm tra giá trị nó có bằng nhau không
 
 
-**Link bài:** [**KIỄM TRA CHUỖI ĐỐI XỨNG**](https://leetcode.com/problems/valid-palindrome/)
+**Link bài:** [Video tham khảo](https://leetcode.com/problems/valid-palindrome/)
 
 
 ```python

@@ -28,7 +28,7 @@
 > Ngoài ra `Queue` còn có các biến thể như là `Priority Queue` hay `Circular Queue`. Chúng sẽ được đề cập trong các bài `Notebook` sau nhất là `Priority Queue`.
 
 
-[![image.png](images/image_1.png)](https://www.youtube.com/watch?v=D6gu-_tmEpQ&pp=ygUUZGF0YSBzdHJ1Y3R1cmUgcXXDqnXSBwkJxwkBhyohjO8%3D)
+[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=D6gu-_tmEpQ&pp=ygUUZGF0YSBzdHJ1Y3R1cmUgcXXDqnXSBwkJxwkBhyohjO8%3D)
 
 # **CODE**
 
@@ -138,7 +138,7 @@ print("Phần tử đầu tiên hiện tại là: ", myQueue.Peek())
 # **MỘT SỐ BÀI TẬP LUYỆN TẬP**
 Do bản thân tôi cũng không tiếp xúc quá nhiều bài tập với `Queue` (chủ yếu sử dụng `Priority Queue` hoặc sử dụng `Queue` cho mỗi bài `BFS`) cho nên tôi cũng có nhiều kinh nghiệm phong phú cho bài tập thuộc cấu trúc này, nên mong các bạn thông cảm 😁😁😁
 
-## [LEETCODE 933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description) **`EASY`**
+## [Video tham khảo](https://leetcode.com/problems/number-of-recent-calls/description) **`EASY`**
 
 You have a RecentCounter class which counts the number of recent requests within a certain time frame.
 
@@ -188,7 +188,7 @@ class RecentCounter:
         return self.count
 ```
 
-## [LEETCODE 622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description) **`MEDIUM`**
+## [Video tham khảo](https://leetcode.com/problems/design-circular-queue/description) **`MEDIUM`**
 
 Design your implementation of the circular queue. The circular queue is a linear data structure in which the operations are performed based on FIFO (First In First Out) principle, and the last position is connected back to the first position to make a circle. It is also called "Ring Buffer".
 

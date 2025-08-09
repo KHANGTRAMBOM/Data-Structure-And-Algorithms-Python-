@@ -5,7 +5,7 @@ Vấn đề của `Insertion Sort` là: Khi một phần tử cần chèn ở v�
 
 `Shell Sort` ra đời để khắc phục nhược điểm này. Thuật toán chia mảng thành các nhóm nhỏ cách nhau một khoảng (gọi là `gap`), sau đó sắp xếp các nhóm này bằng cách "chèn" giống `Insertion Sort`. Khoảng cách `gap` ban đầu lớn, rồi dần thu hẹp cho đến khi bằng 1, lúc này thuật toán hoạt động như `Insertion Sort` để hoàn thiện sắp xếp.
 
-[![image.png](images/image_1.png)](https://www.youtube.com/watch?v=qzXAVXddcPU)
+[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=qzXAVXddcPU)
 
 # **Ý TƯỞNG**
 Trong `Shell Sort` các `cặp` phần tử có khoảng cách (`gap`) sẽ được ưu tiên sắp xếp, hay nói rõ hơn là `sắp xếp chèn` lại các `cặp nghịch thế` với khoảng cách `gap`

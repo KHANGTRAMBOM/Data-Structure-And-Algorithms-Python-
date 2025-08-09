@@ -10,7 +10,7 @@ Thuật toán sắp xếp không so sánh (`non-comparison`) như `Counting Sort
 
 Do đó, dù thuật toán không so sánh (`non-comparison`) như `Counting Sort` tối ưu về thời gian với độ phức tạp `O(n + k)`, nhưng lại lãng phí bộ nhớ. Để khắc phục, `Radix Sort` ra đời, tận dụng ưu điểm thời gian, nhưng giảm đáng kể lãng phí bộ nhớ. Thay vì đếm tần suất của toàn bộ giá trị, `Radix Sort` sắp xếp từng chữ số từ hàng đơn vị đến hàng cao nhất.
 
-[![image.png](images/image_1.png)](https://www.youtube.com/watch?v=nu4gDuFabIM)
+[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=nu4gDuFabIM)
 
 # Ý TƯỞNG
 
