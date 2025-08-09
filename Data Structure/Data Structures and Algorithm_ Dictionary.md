@@ -9,7 +9,7 @@ Khác với Set khi giá trị được đem đi `hash` chính là bản thân g
 
 Ngoài ra `Dictionary` không hoàn toan lấy cảm hứng từ `toán học` mà có thể nói `Dictionary` như một cuốn danh bạ nơi `key` chính là tên và `value` chính là số diện thoại.
 
-[Video tham khảo](images/image_1.png)](https://www.youtube.com/watch?v=Hea64Ey_gVU)
+[Video tham khảo](https://www.youtube.com/watch?v=Hea64Ey_gVU)
 
 # **Thao Tác**
 Tương tự như với `Set`, `Dictionary` cũng có các phép toán như: `Hợp` (Union), `Giao` (Intersetion), `Hiệu` (Difference) và một số phương thức cơ bản khác như: add, remove. Chính vì thế nên trong phần thao tác này tôi sẽ giới thiệu một số phương thức phổ biến trong `Dictionary` (được cài đặt trong python)
