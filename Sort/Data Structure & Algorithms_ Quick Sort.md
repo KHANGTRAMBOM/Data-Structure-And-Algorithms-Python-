@@ -197,7 +197,7 @@ tăng right
 Lúc này right = pivot, dừng lặp và cho left tăng lên 1 đơn vị và swap giữa left và pivot   
 
                                     ↓ right  
- arr = [3, 5, 8, 2, 7, 1, 6, 4, 10, 9]
+ arr = [3, 5, 8, 2, 7, 1, 6, 4, 9, 10]
                             left ↑  ↑ pivot
 ```
 
