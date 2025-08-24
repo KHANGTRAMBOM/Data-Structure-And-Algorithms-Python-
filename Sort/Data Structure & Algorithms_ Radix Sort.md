@@ -18,7 +18,7 @@ Do đó, dù thuật toán không so sánh (`non-comparison`) như `Counting Sor
 
 **Cụ thể:**
 1. Sắp xếp các phần tử dựa trên chữ số ở hàng đơn vị, sử dụng `Counting Sort`.
-2. Sắp xếp các phần tử dựa trên chữ số ở hàng chục, giữ nguyên thứ tự tương đối từ bước trước, sử dụng `Counting Sort`.
+2. Sắp xếp các phần tử dựa trên chữ số ở hàng đơn vị, giữ nguyên thứ tự tương đối từ bước trước, sử dụng `Counting Sort`.
 3. Lặp lại quá trình cho các hàng cao hơn (hàng trăm, hàng nghìn,...) cho đến chữ số cao nhất.
 
 👉 Để xử lý từng chữ số, ta sử dụng `Counting Sort` làm thuật toán con. Vì các chữ số ở mỗi hàng chỉ nằm trong khoảng từ `0` đến `9`, mảng `Counting` chỉ cần `10` phần tử, giúp tiết kiệm bộ nhớ và tận dụng hiệu quả của `Counting Sort`.
